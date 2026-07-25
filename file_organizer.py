@@ -39,7 +39,7 @@ else:
 
 print("================ SUMMARY ================")                   
 for key in count:
-    print(key,": ",count[key])
+    print(key,"       : ",count[key])
 
                 
                 
