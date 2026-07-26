@@ -93,6 +93,17 @@ C:\Users\Hima\Desktop
 
 ---
 
+## Screenshots
+
+### 1. Before Running
+![Before Running](screenshots/1-beforerunning.png)
+
+### 2. Output
+![Output](screenshots/2-output.png)
+
+### 3. After Running
+![After Running](screenshots/3-afterrunning.png)
+
 ## 👩‍💻 Author
 
 **J GURUPREETHI**
